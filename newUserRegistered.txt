@@ -1,0 +1,28 @@
+New Buyer Registered:
+Name: q
+Email: q
+Password: q
+Signup Date: 2023-12-07
+END
+
+New Seller Registered:
+Name: q
+Email: q
+Password: q
+Signup Date: 2023-12-07
+END
+
+New Seller Registered:
+Name: r
+Email: r
+Password: r
+Signup Date: 2023-12-07
+END
+
+New Buyer Registered:
+Name: 2
+Email: 2
+Password: 2
+Signup Date: 2023-12-07
+END
+

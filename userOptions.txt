@@ -1,0 +1,37 @@
+Admin
+1) View registered buyer  list
+2) View registered seller list 
+3) View daily dispute report
+4) View the daily selling report
+5) Solve the disputed reports
+6) View specific buyer details
+7) View specific seller details
+8) Exit
+END
+
+Buyer
+1) View all products
+2) View bidded products
+3) View Bought products
+4) Bid on a product
+5) Mark dispute
+6) Exit
+END
+
+
+Seller1
+1) Add a product
+2) Update a Product
+3) Remove a Product
+4) View all Sold Products
+5) View all Unsold Products
+6) Sell Product at Current Bid Price
+7) Exit
+END
+
+
+Seller2
+1) View Sold Products with Dispute
+2) View Sold Products without Dispute
+3) Exit
+END
