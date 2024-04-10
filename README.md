@@ -23,8 +23,7 @@ Track sold and unsold products.
 Execute sales at current bid prices.
 <br>
 ## Technical Highlights:
-MySQL database integration for data storage.
-Exception handling ensures code reliability.
-File handling records product buying and selling details.
-Console-based interface for user-friendly interaction.
-BlinkBid Automate Auction offers a modern and comprehensive solution for efficient online auction management, combining Java's versatility with robust database integration and meticulous exception handling. This console application streamlines the auction experience for administrators, buyers, and sellers.
+- MySQL database integration for data storage.
+- Exception handling ensures code reliability.
+- File handling records product buying and selling details.
+- Console-based interface for user-friendly interaction.
