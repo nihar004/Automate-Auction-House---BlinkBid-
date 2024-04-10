@@ -27,3 +27,8 @@ Execute sales at current bid prices.
 - Exception handling ensures code reliability.
 - File handling records product buying and selling details.
 - Console-based interface for user-friendly interaction.
+
+## How to run ?
+1. Open the command promt
+2. locate it to your respective file location
+3. run this command  * java -cp bin com.auction_client.Main *
