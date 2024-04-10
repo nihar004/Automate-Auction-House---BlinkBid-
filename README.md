@@ -35,5 +35,6 @@ Execute sales at current bid prices.
    e.g. 
 ![image](https://github.com/nihar004/Automate-Auction-House---BlinkBid-/assets/153357208/e74413b0-a15d-4536-9aa9-333f78f2ecbb)
 4. Before running the command you also have to install mysql-connector and externally import it in the VS code
-  -- as it helps in establishing connection between MySQL and the Java application, allowing you to interact with the MySQL database. To install the MySQL Connector/J, you can download the JAR file from the official MySQL website and then add it to your project's build path. 
+- as it helps in establishing connection between MySQL and the Java application, allowing you to interact with the MySQL database. To install the MySQL       
+Connector/J, you can download the JAR file from the official MySQL website and then add it to your project's build path. 
 
