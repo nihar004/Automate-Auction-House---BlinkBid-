@@ -10,19 +10,29 @@ View registered buyers and sellers.
 Monitor daily dispute reports and selling activities.
 Resolve disputes and access specific user details.
 Efficiently manage the auction system.
-Buyer Module:
+<br>
+<br>
 
+## Buyer Module:
 Login, register, or exit options.
 Registration includes email and password validation.
 View available products, bidded and bought items.
 Place bids and mark disputes as needed.
-Seller Module:
 
+<br>
+<br>
+
+## Seller Module:
 Similar login/registration process as buyers.
 Post, update, or remove products for auction.
 Track sold and unsold products.
 Execute sales at current bid prices.
-Technical Highlights:
+
+
+<br>
+<br>
+
+## Technical Highlights:
 
 MySQL database integration for data storage.
 Exception handling ensures code reliability.
