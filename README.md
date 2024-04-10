@@ -31,4 +31,6 @@ Execute sales at current bid prices.
 ## How to run ?
 1. Open the command promt
 2. locate it to your respective file location
-3. run this command  * java -cp bin com.auction_client.Main *
+3. run this command:  java -cp bin com.auction_client.Main
+![image](https://github.com/nihar004/Automate-Auction-House---BlinkBid-/assets/153357208/e74413b0-a15d-4536-9aa9-333f78f2ecbb)
+
